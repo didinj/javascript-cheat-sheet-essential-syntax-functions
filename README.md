@@ -1,6 +1,6 @@
 # JavaScript Cheat Sheet: Essential Syntax and Functions
 
-Welcome to the official code repository for the [JavaScript Cheat Sheet](https://www.djamware.com/) tutorial by **Djamware.com**.  
+Welcome to the official code repository for the [JavaScript Cheat Sheet]([https://www.djamware.com/](https://www.djamware.com/post/688989b96e50366858dfc86e/javascript-cheat-sheet-essential-syntax-and-functions)) tutorial by **Djamware.com**.  
 This collection of categorized JavaScript examples is designed as a quick reference for developers of all levels.
 
 ## 📚 Overview
@@ -50,7 +50,7 @@ javascript-cheat-sheet/
 
 ## 🔗 Related Tutorial
 
-Read the full tutorial on [Djamware.com]() for explanations and context.
+Read the full tutorial on [Djamware.com](https://www.djamware.com/post/688989b96e50366858dfc86e/javascript-cheat-sheet-essential-syntax-and-functions) for explanations and context.
 
 ## 📝 License
 
